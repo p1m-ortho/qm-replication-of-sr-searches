@@ -1,0 +1,16 @@
+---
+title: "Reproducibility of systematic reviews"
+output:
+  word_document:
+    keep_md: no
+    toc: false
+    reference_docx: Normal.dotm
+  html_notebook:
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+bibliography: qm.bib
+csl: gost-7-1-2003.csl
+---
+
+Agreement on RoB judgements is low between Cochrane reviewers [@Konsgen2020].
