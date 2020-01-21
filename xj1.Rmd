@@ -15,4 +15,6 @@ csl: gost-7-1-2003.csl
 
 A protocol is an important component, but procuring further conduct until completion is, too, important, because some studies never make it from the protocol stage [@Staikos2020].
 
+Single-reviewer screening is prone to missing about one tenth of eligible studies, while dual screening misses a couple per cent. [@Gartlehner2020]
+
 Agreement on RoB judgements is low between Cochrane reviewers [@Konsgen2020].
