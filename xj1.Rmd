@@ -18,3 +18,5 @@ A protocol is an important component, but procuring further conduct until comple
 Single-reviewer screening is prone to missing about one tenth of eligible studies, while dual screening misses a couple per cent. [@Gartlehner2020]
 
 Agreement on RoB judgements is low between Cochrane reviewers [@Konsgen2020].
+
+Some authors have performed assessments of methodological quality of systematic reviews in spine surgery based on quality of reporting or methodological score calculation but have not attempted replication. [@Sathish2020E1E22]
